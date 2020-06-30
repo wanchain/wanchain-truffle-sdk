@@ -1,0 +1,29 @@
+{
+  "name": "wanchain-truffle-sdk",
+  "version": "1.0.0",
+  "description": "A truffle SDK for deploying smart contracts on Wanchain",
+  "main": "index.js",
+  "author": "wanchain-dev <dev-team@wanchain.org>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wanchain",
+    "truffle",
+    "deploy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanchain/wanchain-truffle-sdk.git"
+  },
+  "homepage": "https://github.com/wanchain/wanchain-truffle-sdk#readme",
+  "bugs": {
+    "url": "https://github.com/wanchain/wanchain-truffle-sdk/issues"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.36",
+    "ethereumjs-tx": "^2.1.2",
+    "wanchain-util": "^1.2.0"
+  }
+}
