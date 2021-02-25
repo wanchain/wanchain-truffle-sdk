@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.0.36",
+    "web3-provider-engine": "^16.0.1",
     "ethereumjs-tx": "^2.1.2",
     "wanchain-util": "^1.2.0"
   }
