@@ -1,7 +1,11 @@
-wanchain-truffle-sdk
+wanchain-truffle-sdk [DEPRECATED]
 ========
 
 A truffle SDK for deploying smart contracts on Wanchain.
+
+<font color=red>**Important Notice**: `wanchain-truffle-sdk` is now deprecated, please switch to `@truffle/hdwallet-provider`.</font>
+
+Wanchain is fully compatible with Ethereum after Saturn fork (v3.0.0).
 
 ## Installation
 Use NPM or Yarn to install the package:
